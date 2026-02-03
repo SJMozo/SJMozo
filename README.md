@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Santiago Joaquín Mozo
 
-<!--
-**SJMozo/SJMozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Scientist with a strong interest in data analysis and machine learning.  
+Experience working with Python, SQL, Excel, ETL processes and exploratory data analysis.  
+Focused on continuous learning and real-world projects.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Power BI
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/santiago-joaquín-m-83323a37a
+- Email: santiago1life@hotmail.com
