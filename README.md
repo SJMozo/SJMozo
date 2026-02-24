@@ -4,15 +4,16 @@ Junior Data Scientist with a strong interest in data analysis and machine learni
 Experience working with Python, SQL, Excel, ETL processes and exploratory data analysis.  
 Focused on continuous learning and real-world projects.
 
-## 🛠️ Technologies
-- Python
-- SQL
-- Pandas
-- NumPy
-- Scikit-learn
-- Power BI
-- Excel
+## 🛠️ Technologies                   📊 Featured Skills
+- Python                           - Business Intelligence
+- Jupyter Notebook                 - Exploratory Data Analysis (EDA)
+- SQL                              - Machine Learning
+- Pandas                           - Supervised & Unsupervised Learning
+- NumPy                            - Statistical Analysis
+- Scikit-learn                     - Predictive Modeling
+- Power BI                         - Model Evaluation & Validation
 
+  
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/santiagojoaquínmozo
 - Email: santiago1life@hotmail.com
