@@ -14,5 +14,5 @@ Focused on continuous learning and real-world projects.
 - Excel
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/santiago-joaquín-m-83323a37a
+- LinkedIn: https://www.linkedin.com/in/santiagojoaquínmozo
 - Email: santiago1life@hotmail.com
